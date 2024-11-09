@@ -1,0 +1,1 @@
+The objective of this project is to design and implement a comprehensive Customer Relationship Management (CRM) application for a wholesale rice mill using Salesforce as the primary platform. The application aims to streamline sales, marketing, and customer service processes, enhancing overall business efficiency and customer satisfaction.
